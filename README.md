@@ -24,6 +24,5 @@ The model was able to perfectly classify all test samples into their respective 
 
 # Acknowledgments
 The dataset used in this project is a well-known dataset in the field of machine learning, often used for benchmarking classification algorithms.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
